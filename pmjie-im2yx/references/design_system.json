@@ -1,0 +1,23 @@
+{
+  "colors": {
+    "primary": "#409eff",
+    "success": "#67c23a",
+    "danger": "#f56c6c",
+    "warning": "#e6a23c",
+    "text_primary": "#303133",
+    "text_regular": "#606266",
+    "text_placeholder": "#c0c4cc",
+    "border": "#e4e7ed",
+    "background": "#f5f7fa",
+    "white": "#ffffff"
+  },
+  "components": {
+    "modal": {"border_radius": "4px", "header_font_size": "16px"},
+    "form_label_width": "110px",
+    "button_height": "36px",
+    "input_height": "32px",
+    "select_height": "32px"
+  },
+  "icon_style": "inline SVG, stroke-based, stroke-width 2, no fill",
+  "font_family": "-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif"
+}
